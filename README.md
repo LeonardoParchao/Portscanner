@@ -45,15 +45,6 @@ Contributions to this project are welcome! If you find a bug, have an enhancemen
 - Service names and port associations are based on the common ports dictionary.
 - Banner grabbing is used to gather additional service information.
 
-## Contact
-
-If you have any questions or suggestions, feel free to [contact us](mailto:your.email@example.com).
-
 ---
 
 **Disclaimer:** This tool is intended for educational and network administration purposes. Ensure you have proper authorization before scanning any network or system that you do not own or have explicit permission to scan. Unauthorized scanning may violate applicable laws and regulations.
-
-
-Replace `"yourusername"` in the repository URL with your actual username or the organization name where the project is hosted. Also, make sure to replace `"your.email@example.com"` with a valid contact email address.
-
-You may want to customize this README further with additional details, instructions, and acknowledgments specific to your project. Additionally, consider adding information about how to install dependencies, any prerequisites, and examples of usage.
